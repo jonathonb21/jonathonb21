@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:38bdf8&height=180&section=header&text=Jonathon%20Brunson&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20APIs%2C%20Data%20Systems%20%26%20Production%20Web%20Apps&descAlignY=55&descSize=16)
+<img width="100%" alt="Jonathon Brunson - Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:38bdf8&height=180&section=header&text=Jonathon%20Brunson&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer&descAlignY=58&descSize=16"/>
 
-[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=15+years+shipping+production+software;APIs+and+Postgres+schemas+that+hold+up;Dashboards+that+finish+before+you+tab+away;Fintech%2C+MSP+ops%2C+research+tooling%2C+AI+QA)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=15+years+shipping+production+software;APIs+and+Postgres+schemas+that+hold+up;Dashboards+that+finish+before+you+tab+away;Fintech%2C+MSP+ops%2C+research+tooling%2C+AI+QA"/>
+</a>
 
 <br/><br/>
 
@@ -95,15 +97,14 @@ Shipped dashboard widgets and a dispute-resolution app used by **250+ financial 
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" alt="GitHub stats" src="./assets/stats.svg"/>
+  <img height="165" alt="Top languages" src="./assets/top-langs.svg"/>
+</p>
 
-| | |
-|:-:|:-:|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathonb21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathonb21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) |
-
-![GitHub streak](https://streak-stats.demolab.com/?user=jonathonb21&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=jonathonb21&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -130,13 +131,10 @@ Reach out if you want to talk full-stack work, API and data platform design, or 
 
 ---
 
-<div align="center">
+<p align="center">
+  <img alt="Contribution snake" src="./assets/snake.svg"/>
+</p>
 
-<!-- Snake: run Actions > Generate Snake once; until then this link 404s and shows broken -->
-![Contribution snake](https://raw.githubusercontent.com/jonathonb21/jonathonb21/output/github-contribution-grid-snake.svg)
-
-<br/>
-
-![Footer banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:38bdf8&height=100&section=footer)
-
-</div>
+<p align="center">
+  <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:38bdf8&height=100&section=footer"/>
+</p>

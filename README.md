@@ -131,6 +131,19 @@ Dashboard widgets + full-stack dispute-resolution app in a regulated environment
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="./assets/stats.svg"/>
+  <img height="165" alt="Top languages" src="./assets/top-langs.svg"/>
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=jonathonb21&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🎓📚 Education
 
 🐊 **University of Florida**

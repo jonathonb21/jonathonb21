@@ -1,5 +1,5 @@
-# Generates stats cards and contribution snake as committed SVG files.
-# Public github-readme-stats.vercel.app often returns 503; local assets are reliable.
+# Generates the contribution snake SVG committed to assets/.
+# Action repo: https://github.com/Platane/snk
 
 name: Update README assets
 
@@ -17,22 +17,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=jonathonb21&show_icons=true&theme=tokyonight&hide_border=true
-          path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=jonathonb21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
-          path: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -48,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/
-          git commit -m "Update README assets" || exit 0
+          git add assets/snake.svg
+          git commit -m "Update contribution snake" || exit 0
           git push
